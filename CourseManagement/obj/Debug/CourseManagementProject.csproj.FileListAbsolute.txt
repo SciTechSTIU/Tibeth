@@ -1,0 +1,21 @@
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.CourseManagement.resources
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.Properties.Resources.resources
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagementProject.csproj.GenerateResource.Cache
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.exe
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\bin\Debug\CourseManagement.exe.config
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\obj\Debug\CourseManagement.exe
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\obj\Debug\CourseManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\obj\Debug\CourseManagement.CourseManagement.resources
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\obj\Debug\CourseManagementProject.csproj.GenerateResource.Cache
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\obj\Debug\CourseManagementProject.Properties.Resources.resources
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\bin\Debug\CourseManagementDatabase.accdb
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\bin\Debug\CourseManagement.exe
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\bin\Debug\CourseManagement.pdb
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\obj\Debug\CourseManagement.pdb
+C:\Users\Matikas-Fern\Desktop\FinalProject\CourseManagement\bin\Debug\CourseManagement.exe.config
+C:\Users\Matikas-Fern\Desktop\FinalProject\CourseManagement\obj\Debug\CourseManagement.exe
+C:\Users\Matikas-Fern\Desktop\FinalProject\CourseManagement\obj\Debug\CourseManagement.pdb
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\obj\Debug\RdlCompile.cache
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\obj\Debug\RdlCompile.compiled
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\FinalProject\CourseManagement\obj\Debug\CourseManagementProject.Splash_Screen.resources

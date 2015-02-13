@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="CourseManagementDatabaseConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="CourseManagementDatabaseConnectionString (Settings)" PropertyReference="ApplicationSettings.CourseManagementProject.Properties.Settings.GlobalReference.Default.CourseManagementDatabaseConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CourseManagementDatabaseConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Course_Offer.Course_Code, Course.Course_Name, TimeTable.Course_Date, TimeTable.Course_Time, Lecturer.Lecturer_Name
+FROM  (((Course_Offer INNER JOIN
+         Course ON Course_Offer.Course_Code = Course.Course_Code) INNER JOIN
+         TimeTable ON TimeTable.Offer_ID = Course_Offer.Offer_ID) INNER JOIN
+         Lecturer ON Lecturer.Lecturer_ID = TimeTable.Lecturer_ID)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Course_Code" DataSetColumn="Course_Code" />
+              <Mapping SourceColumn="Course_Name" DataSetColumn="Course_Name" />
+              <Mapping SourceColumn="Course_Date" DataSetColumn="Course_Date" />
+              <Mapping SourceColumn="Course_Time" DataSetColumn="Course_Time" />
+              <Mapping SourceColumn="Lecturer_Name" DataSetColumn="Lecturer_Name" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet2" msprop:Generator_UserDSName="DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Course_Code" msprop:Generator_ColumnVarNameInTable="columnCourse_Code" msprop:Generator_ColumnPropNameInRow="Course_Code" msprop:Generator_ColumnPropNameInTable="Course_CodeColumn" msprop:Generator_UserColumnName="Course_Code" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Course_Name" msprop:Generator_ColumnVarNameInTable="columnCourse_Name" msprop:Generator_ColumnPropNameInRow="Course_Name" msprop:Generator_ColumnPropNameInTable="Course_NameColumn" msprop:Generator_UserColumnName="Course_Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Course_Date" msprop:Generator_ColumnVarNameInTable="columnCourse_Date" msprop:Generator_ColumnPropNameInRow="Course_Date" msprop:Generator_ColumnPropNameInTable="Course_DateColumn" msprop:Generator_UserColumnName="Course_Date" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Course_Time" msprop:Generator_ColumnVarNameInTable="columnCourse_Time" msprop:Generator_ColumnPropNameInRow="Course_Time" msprop:Generator_ColumnPropNameInTable="Course_TimeColumn" msprop:Generator_UserColumnName="Course_Time" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Lecturer_Name" msprop:Generator_ColumnVarNameInTable="columnLecturer_Name" msprop:Generator_ColumnPropNameInRow="Lecturer_Name" msprop:Generator_ColumnPropNameInTable="Lecturer_NameColumn" msprop:Generator_UserColumnName="Lecturer_Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

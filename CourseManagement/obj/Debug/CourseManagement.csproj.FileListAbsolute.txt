@@ -1,0 +1,39 @@
+c:\users\matikas-fern\documents\visual studio 2013\Projects\CourseManagement\CourseManagement\bin\Debug\CourseManagement.exe.config
+c:\users\matikas-fern\documents\visual studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.Properties.Resources.resources
+c:\users\matikas-fern\documents\visual studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.csproj.GenerateResource.Cache
+C:\Users\Matikas-Fern\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\bin\Debug\CourseManagement.exe
+C:\Users\Matikas-Fern\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\bin\Debug\CourseManagement.pdb
+C:\Users\Matikas-Fern\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.csprojResolveAssemblyReference.cache
+C:\Users\Matikas-Fern\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.exe
+C:\Users\Matikas-Fern\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.pdb
+C:\Users\Matikas-Fern\documents\visual studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.CourseManagement.resources
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\bin\Debug\CourseManagement.exe.config
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.exe
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.pdb
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\bin\Debug\CourseManagement.exe
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\bin\Debug\CourseManagement.pdb
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.csprojResolveAssemblyReference.cache
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.CourseManagement.resources
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.Properties.Resources.resources
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\obj\Debug\CourseManagement.csproj.GenerateResource.Cache
+C:\Users\Tibeth\Documents\Visual Studio 2013\Projects\CourseManagement\CourseManagement\bin\Debug\CourseManagementDatabase.accdb
+C:\Users\Matikas-Fern\Desktop\CourseManagement\CourseManagement\bin\Debug\CourseManagement.exe.config
+C:\Users\Matikas-Fern\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.exe
+C:\Users\Matikas-Fern\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.pdb
+C:\Users\Matikas-Fern\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.csprojResolveAssemblyReference.cache
+C:\Users\Matikas-Fern\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.CourseManagement.resources
+C:\Users\Matikas-Fern\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.Properties.Resources.resources
+C:\Users\Matikas-Fern\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.csproj.GenerateResource.Cache
+C:\Users\Matikas-Fern\Desktop\CourseManagement\CourseManagement\bin\Debug\CourseManagementDatabase.accdb
+C:\Users\Matikas-Fern\Desktop\CourseManagement\CourseManagement\bin\Debug\CourseManagement.exe
+C:\Users\Matikas-Fern\Desktop\CourseManagement\CourseManagement\bin\Debug\CourseManagement.pdb
+C:\Users\Tibeth\Desktop\CourseManagement\CourseManagement\bin\Debug\CourseManagement.exe.config
+C:\Users\Tibeth\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.exe
+C:\Users\Tibeth\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.pdb
+C:\Users\Tibeth\Desktop\CourseManagement\CourseManagement\bin\Debug\CourseManagementDatabase.accdb
+C:\Users\Tibeth\Desktop\CourseManagement\CourseManagement\bin\Debug\CourseManagement.exe
+C:\Users\Tibeth\Desktop\CourseManagement\CourseManagement\bin\Debug\CourseManagement.pdb
+C:\Users\Tibeth\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.csprojResolveAssemblyReference.cache
+C:\Users\Tibeth\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.CourseManagement.resources
+C:\Users\Tibeth\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.Properties.Resources.resources
+C:\Users\Tibeth\Desktop\CourseManagement\CourseManagement\obj\Debug\CourseManagement.csproj.GenerateResource.Cache
